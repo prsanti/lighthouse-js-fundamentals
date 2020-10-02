@@ -1,3 +1,4 @@
+// indentation for case is the same as switch because of the code eval.
 const finalPosition = function (moves) {
   let position = [0,0];
   for (let move of moves) {
